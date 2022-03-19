@@ -1,2 +1,2 @@
 # PROJECT-Caesar-Cipher
-A simple cipher
+A caesar Cipher project from Odin Project
